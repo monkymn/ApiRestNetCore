@@ -1,0 +1,14 @@
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.deps.json
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.runtimeconfig.json
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.runtimeconfig.dev.json
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.dll
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\bin\Debug\netcoreapp2.1\Supermarket.API.pdb
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csprojAssemblyReference.cache
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cache
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cs
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfoInputs.cache
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfo.cs
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.dll
+C:\Lab\Git\Test\ApiRest\src\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.pdb
